@@ -1,0 +1,47 @@
+body {
+    background-color: #2E2E2E;
+    text-align: center;
+    color: #F2F2F2;
+    font-family: verdana, san-serif 
+}
+
+#page {
+    width: 960px;
+    height: 790px;
+    margin: 0 auto;
+    background-color: #0F98AB;
+    
+}
+
+.topone {
+    
+    width: 75px;
+    height: 75px;
+    background-color: #424242;
+    float: ;
+    margin: 0px 0px 0px 100px;
+    text-align: center;
+    
+}
+
+.middleone {
+    
+    width: 75px;
+    height: 75px;
+    background-color: #424242;
+    float: center;
+    margin: 0px 0px 0px 100px;
+    text-align: center;
+    
+}
+
+.bottomone {
+    
+    width: 75px;
+    height: 75px;
+    background-color: #424242;
+    float: center;
+    margin: 0px 0px 0px 100px;
+    text-align: center;
+    
+}
