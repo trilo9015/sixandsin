@@ -10,38 +10,21 @@ body {
     height: 790px;
     margin: 0 auto;
     background-color: #0F98AB;
-    
 }
 
-.topone {
-    
-    width: 75px;
-    height: 75px;
-    background-color: #424242;
-    float: ;
-    margin: 0px 0px 0px 100px;
-    text-align: center;
-    
+nav {
+  background-color: white;
+  color: black;
+  height: 4.5rem;
 }
 
-.middleone {
-    
-    width: 75px;
-    height: 75px;
-    background-color: #424242;
-    float: center;
-    margin: 0px 0px 0px 100px;
-    text-align: center;
-    
+.col-md-1 {
+  padding: 0.2rem;
 }
 
-.bottomone {
-    
-    width: 75px;
-    height: 75px;
-    background-color: #424242;
-    float: center;
-    margin: 0px 0px 0px 100px;
-    text-align: center;
-    
+.megawrapper{
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%,-50%);
 }
