@@ -6,11 +6,31 @@ body {
 }
 
 #page {
-    width: 960px;
+    width: 1076px;
     height: 790px;
     margin: 0 auto;
     background-color: #0F98AB;
-    
+}
+
+.toprow, .middlerow, .bottomrow {
+  clear: both;
+}
+
+.content {
+  padding-top: 25%;
+}
+
+nav {
+  background-color: grey;
+  height: 75px;
+  width: 75px;
+  float: left;
+  margin-right: 2px;
+  margin-bottom: 2px;
+}
+
+nav:last-child {
+  margin-right: 0;
 }
 
 .topone {
